@@ -4,7 +4,7 @@
   "log_level": "debug",
   "client-data": "http://127.0.0.1:8000/",
   "pusher": "http://localhost:2017",
-  "email_from": "",
+  "email_from": "no-reply@eigengraph.com",
   "elastic": {
     "hosts": ["localhost:9200"]
   }
